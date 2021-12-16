@@ -1,4 +1,4 @@
-# AQI
+### AQI
 
 #### Air quality index of multiple cities and in-details information with the help of graph
 
@@ -9,6 +9,11 @@ Details are as below :
 3. On details screen, showing graph for particular city 
 4. Data refresh after every 10 seconds
 5. Implemented Unit Testing for socket connection
+
+Configuration Used during development : 
+1. Xcode version : 12.4
+2. Tested on : iOS Simulator(14.4)
+3. Swift Version : 5
 
 #### Screenshots and videos : 
 
@@ -22,11 +27,7 @@ List Of Cities           |  City Details
 https://user-images.githubusercontent.com/58142122/146371877-3a9e47db-0bdb-40f8-89c4-570277815ce9.mp4
 
 
-Configuration Used during development : 
 
-1. Xcode version : 12.4
-2. Tested on : iOS Simulator(14.4)
-3. Swift Version : 5
 
 
 
