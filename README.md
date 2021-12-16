@@ -24,7 +24,9 @@ https://user-images.githubusercontent.com/58142122/146371877-3a9e47db-0bdb-40f8-
 
 Configuration Used during development : 
 
-Xcode version : 12.4
-Tested on : iOS Simulator(14.4)
-Swift Version : 5
+1. Xcode version : 12.4
+2. Tested on : iOS Simulator(14.4)
+3. Swift Version : 5
+
+
 
