@@ -1,6 +1,6 @@
 # AQI
 
-## Air quality index of multiple cities and in-details information with the help of graph
+#### Air quality index of multiple cities and in-details information with the help of graph
 
 Details are as below :
 
