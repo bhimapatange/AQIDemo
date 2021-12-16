@@ -24,7 +24,6 @@ List Of Cities           |  City Details
 
 
 
-
 https://user-images.githubusercontent.com/58142122/146371877-3a9e47db-0bdb-40f8-89c4-570277815ce9.mp4
 
 
