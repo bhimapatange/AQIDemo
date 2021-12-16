@@ -21,3 +21,10 @@ List Of Cities           |  City Details
 
 https://user-images.githubusercontent.com/58142122/146371877-3a9e47db-0bdb-40f8-89c4-570277815ce9.mp4
 
+
+Configuration Used during development : 
+
+Xcode version : 12.4
+Tested on : iOS Simulator(14.4)
+Swift Version : 5
+
