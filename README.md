@@ -1,6 +1,7 @@
-# Air quality index of multiple cities and in-details information with the help of graph
+# AQI
 
------
+## Air quality index of multiple cities and in-details information with the help of graph
+
 Details are as below :
 
 1. Followed MVVM pattern
