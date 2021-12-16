@@ -1,0 +1,6 @@
+framework module Pods_AQIDemoProject_AQIDemoProjectUITests {
+  umbrella header "Pods-AQIDemoProject-AQIDemoProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
